@@ -1,0 +1,12 @@
+cluster,5
+ll,v1.25
+opt,
+planning_horizon,2050
+line_volume,39220852.40265876
+line_volume_limit,39220853.11304422
+line_volume_AC,31376687.190890282
+line_volume_DC,7844165.211768478
+line_volume_shadow,-50.09783462854982
+co2_shadow,-371.04918572436407
+co2_storage_shadow,158.67507139965258
+total costs,142544583731.56696

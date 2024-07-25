@@ -1,0 +1,19 @@
+cluster,5
+ll,v1.25
+opt,
+planning_horizon,2050
+carrier,
+gas,-inf
+nuclear,-inf
+offwind-ac,6.071
+offwind-dc,18.296
+offwind-float,14.659
+oil,-inf
+onwind,4.881
+ror,0.088
+rural solar thermal,37.978
+solar,0.145
+solar rooftop,0.007
+solar-hsat,0.797
+urban central solar thermal,38.923
+urban decentral solar thermal,37.955

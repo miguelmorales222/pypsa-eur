@@ -1,0 +1,11 @@
+cluster,5
+ll,v1.25
+opt,
+planning_horizon,2050
+electricity,
+heat,
+space heat,
+urban heat,
+space urban heat,
+gas,24.578254414491713
+H2,

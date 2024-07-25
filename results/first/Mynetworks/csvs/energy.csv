@@ -1,0 +1,107 @@
+cluster,,5
+ll,,v1.25
+opt,,
+planning_horizon,,2050
+generators,gas,603431583.9562235
+generators,nuclear,22508277.760229304
+generators,offwind-ac,17975112.25258658
+generators,offwind-dc,90740260.1896308
+generators,offwind-float,2291284.9765862296
+generators,oil,227773420.4211932
+generators,onwind,467031766.8151448
+generators,ror,18140781.540853705
+generators,rural solar thermal,5.264079962495694
+generators,solar,43470921.21836003
+generators,solar rooftop,129598905.06978174
+generators,solar-hsat,165373373.18156502
+generators,urban central solar thermal,9.134382258688946
+generators,urban decentral solar thermal,5.400761136420209
+lines,AC,-3608032.1514967084
+links,BEV charger,-20417440.748860806
+links,DAC,-56622987.38287714
+links,DC,-2278337.9105374366
+links,Fischer-Tropsch,-31.11320236585597
+links,H2 Electrolysis,-6909701.760899036
+links,H2 Fuel Cell,-10.075806971950776
+links,H2 pipeline,-12.461671793308861
+links,OCGT,-2073987.7471898552
+links,SMR,-1.150417630195891
+links,SMR CC,-7594970.932708366
+links,Sabatier,-13.135049362612772
+links,V2G,-1867112.9883877002
+links,agriculture machinery oil,794330.4688517388
+links,battery charger,-266727.7727259584
+links,battery discharger,-261338.77738195658
+links,biogas to gas,-6109655.683401987
+links,co2 sequestered,0.0
+links,electricity distribution grid,-28753149.528033018
+links,gas for industry,1.8376913333268006
+links,gas for industry CC,6327532.322710411
+links,home battery charger,-4.480301696446759
+links,home battery discharger,-4.389882448247079
+links,industry methanol,729148.5826240816
+links,kerosene for aviation,31210374.209638633
+links,methanolisation,-12328664.485572742
+links,naphtha for industry,26555858.999975324
+links,process emissions,0.0
+links,process emissions CC,3.725290298461914e-09
+links,rural air heat pump,63.37777556420709
+links,rural biomass boiler,-3.3072016564320954
+links,rural gas boiler,2329853.1203350853
+links,rural ground heat pump,110392468.67877552
+links,rural resistive heater,-446519.404249629
+links,rural water tanks charger,-2361693.465262091
+links,rural water tanks discharger,-1670940.9118613638
+links,shipping methanol,4108834.0123338224
+links,solid biomass for industry,0.0
+links,solid biomass for industry CC,-14347777.478743583
+links,urban central air heat pump,35653959.34342007
+links,urban central gas CHP,1118742.0242658015
+links,urban central gas CHP CC,8631811.51421681
+links,urban central gas boiler,2792701.5546495724
+links,urban central resistive heater,-1269797.4843824804
+links,urban central solid biomass CHP,2.6388816082493136
+links,urban central solid biomass CHP CC,5616040.020584613
+links,urban central water tanks charger,-14175914.080441222
+links,urban central water tanks discharger,-10097585.004520245
+links,urban decentral air heat pump,83705292.47611019
+links,urban decentral biomass boiler,-3.6511436041364753
+links,urban decentral gas boiler,8736790.812771711
+links,urban decentral resistive heater,-1189803.6006391644
+links,urban decentral water tanks charger,-2287769.5019808467
+links,urban decentral water tanks discharger,-1592058.761474995
+loads,H2 for industry,-37859999.99999999
+loads,agriculture electricity,-6185762.202018455
+loads,agriculture heat,-11698551.063110735
+loads,agriculture machinery oil,-3089577.864064618
+loads,electricity,-239101108.1946573
+loads,gas for industry,-58110000.00000002
+loads,industry electricity,-351730000.0
+loads,industry methanol,-2940000.0000000005
+loads,kerosene for aviation,-121393909.80010656
+loads,land transport EV,-165085836.87205717
+loads,low-temperature heat for industry,-10910000.000000002
+loads,naphtha for industry,-103290000.00000003
+loads,process emissions,21960000.0
+loads,rural heat,-157761054.78823888
+loads,shipping methanol,-16567229.621165495
+loads,solid biomass for industry,-129129999.99999996
+loads,urban central heat,-340961738.0707746
+loads,urban decentral heat,-197658978.59175342
+storage_units,PHS,-1960120.3618304736
+storage_units,hydro,1988462.2297351228
+stores,H2,-4.388850394221322e-16
+stores,Li ion,0.01618634437181754
+stores,battery,0.0009390041156163154
+stores,biogas,30856846.88586862
+stores,co2,-0.020091313868761063
+stores,co2 sequestered,-200000000.0070864
+stores,co2 stored,0.0
+stores,gas,0.0
+stores,home battery,0.005010281363607399
+stores,methanol,0.0
+stores,oil,0.0
+stores,rural water tanks,-1868267.0577062191
+stores,solid biomass,196760461.62069055
+stores,urban central water tanks,-10798544.437139759
+stores,urban decentral water tanks,-1972553.464987019
